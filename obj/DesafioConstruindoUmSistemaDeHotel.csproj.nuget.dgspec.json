@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\nicolas.carvalho\\Desktop\\DesafioConstruindoUmSistemaDeHotel\\DesafioConstruindoUmSistemaDeHotel.csproj": {}
+    "C:\\Users\\nicolas.carvalho\\Desktop\\DesafioConstruindoUmSistemaDeHotel\\DesafioConstruindoUmSistemaDeHotel.csproj": {}
   },
   "projects": {
-    "c:\\Users\\nicolas.carvalho\\Desktop\\DesafioConstruindoUmSistemaDeHotel\\DesafioConstruindoUmSistemaDeHotel.csproj": {
+    "C:\\Users\\nicolas.carvalho\\Desktop\\DesafioConstruindoUmSistemaDeHotel\\DesafioConstruindoUmSistemaDeHotel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\nicolas.carvalho\\Desktop\\DesafioConstruindoUmSistemaDeHotel\\DesafioConstruindoUmSistemaDeHotel.csproj",
+        "projectUniqueName": "C:\\Users\\nicolas.carvalho\\Desktop\\DesafioConstruindoUmSistemaDeHotel\\DesafioConstruindoUmSistemaDeHotel.csproj",
         "projectName": "DesafioConstruindoUmSistemaDeHotel",
-        "projectPath": "c:\\Users\\nicolas.carvalho\\Desktop\\DesafioConstruindoUmSistemaDeHotel\\DesafioConstruindoUmSistemaDeHotel.csproj",
+        "projectPath": "C:\\Users\\nicolas.carvalho\\Desktop\\DesafioConstruindoUmSistemaDeHotel\\DesafioConstruindoUmSistemaDeHotel.csproj",
         "packagesPath": "C:\\Users\\nicolas.carvalho\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\nicolas.carvalho\\Desktop\\DesafioConstruindoUmSistemaDeHotel\\obj\\",
+        "outputPath": "C:\\Users\\nicolas.carvalho\\Desktop\\DesafioConstruindoUmSistemaDeHotel\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nicolas.carvalho\\AppData\\Roaming\\NuGet\\NuGet.Config",

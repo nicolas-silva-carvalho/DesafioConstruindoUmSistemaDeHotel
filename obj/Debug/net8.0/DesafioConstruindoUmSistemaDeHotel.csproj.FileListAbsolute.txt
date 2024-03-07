@@ -7,6 +7,7 @@ C:\Users\nicolas.carvalho\Desktop\DesafioConstruindoUmSistemaDeHotel\obj\Debug\n
 C:\Users\nicolas.carvalho\Desktop\DesafioConstruindoUmSistemaDeHotel\obj\Debug\net8.0\DesafioConstruindoUmSistemaDeHotel.AssemblyInfoInputs.cache
 C:\Users\nicolas.carvalho\Desktop\DesafioConstruindoUmSistemaDeHotel\obj\Debug\net8.0\DesafioConstruindoUmSistemaDeHotel.AssemblyInfo.cs
 C:\Users\nicolas.carvalho\Desktop\DesafioConstruindoUmSistemaDeHotel\obj\Debug\net8.0\DesafioConstruindoUmSistemaDeHotel.csproj.CoreCompileInputs.cache
+C:\Users\nicolas.carvalho\Desktop\DesafioConstruindoUmSistemaDeHotel\obj\Debug\net8.0\DesafioConstruindoUmSistemaDeHotel.sourcelink.json
 C:\Users\nicolas.carvalho\Desktop\DesafioConstruindoUmSistemaDeHotel\obj\Debug\net8.0\DesafioConstruindoUmSistemaDeHotel.dll
 C:\Users\nicolas.carvalho\Desktop\DesafioConstruindoUmSistemaDeHotel\obj\Debug\net8.0\refint\DesafioConstruindoUmSistemaDeHotel.dll
 C:\Users\nicolas.carvalho\Desktop\DesafioConstruindoUmSistemaDeHotel\obj\Debug\net8.0\DesafioConstruindoUmSistemaDeHotel.pdb
